@@ -1,0 +1,1 @@
+/usr/bin/c++ -static CMakeFiles/MySFS.dir/src/BufferManager.cpp.o CMakeFiles/MySFS.dir/src/File.cpp.o CMakeFiles/MySFS.dir/src/FileManager.cpp.o CMakeFiles/MySFS.dir/src/FileSystem.cpp.o CMakeFiles/MySFS.dir/src/INode.cpp.o CMakeFiles/MySFS.dir/src/Kernel.cpp.o CMakeFiles/MySFS.dir/src/OpenfileManager.cpp.o CMakeFiles/MySFS.dir/src/main.cpp.o -o MySFS 

@@ -1,0 +1,3 @@
+/home/xander/MySFS/build/CMakeFiles/MySFS.dir
+/home/xander/MySFS/build/CMakeFiles/edit_cache.dir
+/home/xander/MySFS/build/CMakeFiles/rebuild_cache.dir
